@@ -20,6 +20,7 @@ module.exports = {
         collapsed: true,
         items: [
             "lecture/intro",
+            "lecture/week2",
           ],
         },
     ]

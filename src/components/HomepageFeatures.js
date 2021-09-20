@@ -26,10 +26,11 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-            Read:
-            Knobel and Lankshear – Online memes, affinities, and cultural production
-            Hall – Encoding and decoding
-            Shifman – CH 4
+        Carey – A Cultural Approach to Communication
+        <br/>
+        Geertz – Thick Description
+        <br/>
+        Shifman – CH 7 
       </>
     ),
   },
