@@ -8,7 +8,9 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Meme #1
+            Meme analysis essay #1
+            <br />
+            Presentations 1-6 
       </>
     ),
   },
@@ -26,11 +28,9 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Carey – A Cultural Approach to Communication
+        Baudrillard – Simulacra and Simulation
         <br/>
-        Geertz – Thick Description
-        <br/>
-        Shifman – CH 7 
+        Carney – The Precession of Simulacra 
       </>
     ),
   },
